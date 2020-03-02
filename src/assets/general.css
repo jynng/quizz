@@ -1,0 +1,190 @@
+html, body {margin: 0px;}
+/*body {background: url(https://img.freepik.com/free-vector/modern-city-skyline-background_77417-791.jpg?size=626&ext=jpg);background-size:cover;background-position:center}
+*/
+body {background: #0095ff; font-family: Mikado;}
+.Header{
+    width: 100%;
+    height: 100vh;
+    background: #0095ff;
+    position: fixed;
+    z-index: -2;
+}
+.App {
+    width: 100%;
+    margin-top: 60%;
+    background: #fff;
+    padding: 20px;
+    border-radius: 20px 20px 0 0;
+}
+
+.main-content {
+    padding: 0px !important;
+
+}
+
+.goBattle {
+    width: 90%;
+    position: fixed;
+    bottom: 2%;
+    height: 50px;
+    background: orange;
+    font-size: 20px;
+    font-weight: 800;
+    font-family: Poppins;
+    color: #fff;
+    text-shadow: rgba(0, 0, 0, 0.38) 1px 1px 10px;
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.4) 1px 1px 6px;
+    border-radius: 5px;
+}
+
+.waitingPlayer {
+    background: #969696;
+    border: 2px #989898 solid;
+    color: #ffffff;
+    font-weight: 600;
+    text-transform: uppercase;
+    border-radius: 20px;
+    font-size: 12px;
+    padding: 0px 8px;
+
+}
+.flexbox {
+    text-align: center;
+    align-items: center;
+}
+
+
+.Players {
+    width: 100%;
+    text-align:center;
+
+}
+.Player {
+    width: 50%;
+    margin: 20px 0 5px;
+}
+
+.me_name {
+    line-height: 100%;
+    text-align: center;
+    margin-bottom: 0px;
+    margin: 5px;
+    font-family: Mikado;
+    color:#FFF;
+    font-weight: 100;
+}
+.points {
+    font-family: Mikado;
+    font-weight: 600;
+    color:#ffbd01;
+}
+
+.versus {
+    position: absolute;
+    background: #fff;
+    border-radius: 50%;
+    padding: 0px 5px 2px;
+    left: 50%;
+    transform: translate(-50%);
+}
+.Question {
+    text-align: center;
+    background: #fff;
+    width: 80%;
+    margin: auto;
+    padding: 5px;
+    border-radius: 15px;
+}
+
+.questionContent {
+    height: 120px;
+    width: 80%;
+    margin: auto;
+}
+
+.Question::after{
+    background: #000;
+    width: 100%;
+    position: absolute;
+}
+.qv{
+    width: 74%;
+    background: #c1c0c0;
+    height: 145px;
+    margin: auto;
+    border-radius: 15px;
+    position: absolute;
+    z-index: -2;
+    left: 50%;
+    transform: translate(-50%) rotate(-2deg);
+}
+
+.Alternatives {
+    width: 80%;
+    margin: 10px auto;
+}
+
+.Alternative {
+    background: #fff;
+    padding: 8px;
+    margin: 3px 0;
+    border-radius: 8px;
+    text-align: center;
+    width: 100%;
+    border: 0;
+    outline: 0;
+    font-size: 1rem;
+
+    
+}
+.Alternative:focus {
+    outline: 0;
+    border: 0;
+}
+
+.correct {
+    background: #10ff00 !important;
+    color: #fff;
+}
+
+.Question > h5 {
+text-transform: uppercase;
+font-weight: 800;
+}
+
+.Alternative > h6 {
+    background: transparent !important;
+}
+
+.withImage > h6 {
+    position: absolute;
+    color: #fff;
+    background: #0095ff;
+    padding: 5px;
+    text-shadow: 2px 1px 3px rgba(0, 0, 0, 0.41);
+    border-radius: 10px;
+    text-transform: uppercase;
+    font-weight: 800;
+    
+
+}
+.withImage {
+    min-height: 140px;
+    background-size:cover !important;
+    background-position:center !important;
+}
+
+
+.correct > h6 {
+    text-shadow: rgba(0, 0, 0, 0.48) 1px 1px 3px;
+}
+
+.wrong > h6 {
+    text-shadow: rgba(0, 0, 0, 0.48) 1px 1px 3px;
+}
+
+.wrong {
+    background: #ff0000 !important;
+    color: #fff;
+}

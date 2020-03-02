@@ -1,0 +1,35 @@
+@font-face {
+    font-family: "Mikado";
+    src: url('./HVD Fonts - MikadoBlack.otf');
+    font-weight: 800;
+}
+
+@font-face {
+    font-family: "Mikado";
+    src: url('./HVD Fonts - MikadoRegular.otf');
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "Mikado";
+    src: url('./HVD Fonts - MikadoMedium.otf');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "Mikado";
+    src: url('./HVD Fonts - MikadoBold.otf');
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: "Mikado";
+    src: url('./HVD Fonts - MikadoLight.otf');
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: "Mikado";
+    src: url('./HVD Fonts - MikadoUltra.otf');
+    font-weight: 900;
+}
