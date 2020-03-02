@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/quizz/static/css/main.47c5bf48.chunk.css",
+    "main.js": "/quizz/static/js/main.7a1910ff.chunk.js",
+    "main.js.map": "/quizz/static/js/main.7a1910ff.chunk.js.map",
+    "runtime-main.js": "/quizz/static/js/runtime-main.cb8cba71.js",
+    "runtime-main.js.map": "/quizz/static/js/runtime-main.cb8cba71.js.map",
+    "static/js/2.ee006b79.chunk.js": "/quizz/static/js/2.ee006b79.chunk.js",
+    "static/js/2.ee006b79.chunk.js.map": "/quizz/static/js/2.ee006b79.chunk.js.map",
+    "index.html": "/quizz/index.html",
+    "precache-manifest.327384fc2b1f679461ca730f49a936b4.js": "/quizz/precache-manifest.327384fc2b1f679461ca730f49a936b4.js",
+    "service-worker.js": "/quizz/service-worker.js",
+    "static/css/main.47c5bf48.chunk.css.map": "/quizz/static/css/main.47c5bf48.chunk.css.map",
+    "static/js/2.ee006b79.chunk.js.LICENSE.txt": "/quizz/static/js/2.ee006b79.chunk.js.LICENSE.txt",
+    "static/media/Mikado.css": "/quizz/static/media/HVD Fonts - MikadoUltra.4afb24ba.otf",
+    "static/media/core.min.css": "/quizz/static/media/themify.e23a7dca.ttf",
+    "static/media/style.min.css": "/quizz/static/media/general.a974fa9e.png",
+    "static/media/logo.svg": "/quizz/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb8cba71.js",
+    "static/js/2.ee006b79.chunk.js",
+    "static/css/main.47c5bf48.chunk.css",
+    "static/js/main.7a1910ff.chunk.js"
+  ]
+}
