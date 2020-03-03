@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/quizz/static/css/main.47c5bf48.chunk.css",
-    "main.js": "/quizz/static/js/main.f2554536.chunk.js",
-    "main.js.map": "/quizz/static/js/main.f2554536.chunk.js.map",
+    "main.js": "/quizz/static/js/main.bf72a296.chunk.js",
+    "main.js.map": "/quizz/static/js/main.bf72a296.chunk.js.map",
     "runtime-main.js": "/quizz/static/js/runtime-main.cb8cba71.js",
     "runtime-main.js.map": "/quizz/static/js/runtime-main.cb8cba71.js.map",
-    "static/js/2.78038f2e.chunk.js": "/quizz/static/js/2.78038f2e.chunk.js",
-    "static/js/2.78038f2e.chunk.js.map": "/quizz/static/js/2.78038f2e.chunk.js.map",
+    "static/js/2.a5eb992d.chunk.js": "/quizz/static/js/2.a5eb992d.chunk.js",
+    "static/js/2.a5eb992d.chunk.js.map": "/quizz/static/js/2.a5eb992d.chunk.js.map",
     "index.html": "/quizz/index.html",
-    "precache-manifest.72fbd7e2e20b8fcc56d6f97ec3f21829.js": "/quizz/precache-manifest.72fbd7e2e20b8fcc56d6f97ec3f21829.js",
+    "precache-manifest.4df8be876d7b9b9b41f2cb87fb977fcd.js": "/quizz/precache-manifest.4df8be876d7b9b9b41f2cb87fb977fcd.js",
     "service-worker.js": "/quizz/service-worker.js",
     "static/css/main.47c5bf48.chunk.css.map": "/quizz/static/css/main.47c5bf48.chunk.css.map",
-    "static/js/2.78038f2e.chunk.js.LICENSE.txt": "/quizz/static/js/2.78038f2e.chunk.js.LICENSE.txt",
+    "static/js/2.a5eb992d.chunk.js.LICENSE.txt": "/quizz/static/js/2.a5eb992d.chunk.js.LICENSE.txt",
     "static/media/Mikado.css": "/quizz/static/media/HVD Fonts - MikadoUltra.4afb24ba.otf",
     "static/media/core.min.css": "/quizz/static/media/themify.e23a7dca.ttf",
     "static/media/style.min.css": "/quizz/static/media/general.a974fa9e.png",
@@ -19,8 +19,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.cb8cba71.js",
-    "static/js/2.78038f2e.chunk.js",
+    "static/js/2.a5eb992d.chunk.js",
     "static/css/main.47c5bf48.chunk.css",
-    "static/js/main.f2554536.chunk.js"
+    "static/js/main.bf72a296.chunk.js"
   ]
 }
